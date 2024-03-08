@@ -1,7 +1,7 @@
 {
     "sidebarBg": "#f6f6ef",
-    "sidebarText": "#111111",
-    "sidebarUnreadText": "#111151",
+    "sidebarText": "#113333",
+    "sidebarUnreadText": "#ff6600",
     "sidebarTextHoverBg": "#e0e0e0",
     "sidebarTextActiveBorder": "#757575",
     "sidebarTextActiveColor": "#111111",
@@ -19,7 +19,7 @@
     "buttonBg": "#ff6600",
     "buttonColor": "#111111",
     "errorTextColor": "#e53935",
-    "mentionHighlightBg": "#f6f6ef",
-    "mentionHighlightLink": "#911151",
+    "mentionHighlightBg": "#ff6600",
+    "mentionHighlightLink": "#111111",
     "codeTheme": "github"
 }
